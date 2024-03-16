@@ -5,12 +5,12 @@
   </h1>
   <h3>A Computer Engineer</h3>
 </div>
-<img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding"  width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1715817600&v=beta&t=MVQ2hKrDj2Txg2kbgqwvyAaMwGcppYzzeYjMDodJuh0"/>
 <div align="left">
   
 - 🔭 I’m currently working on [Real-Estate-Market-Place](https://github.com/SamyShaawat/Real-Estate-Market-Place)
 
-- 🌱 I’m currently learning **C#, X++, Data Warehousing, Flutter**
+- 🌱 I’m currently learning **C#, X++, Data Warehousing, SSMS, Flutter**
 
 - 📫 How to reach me **adham.khalid71@gmail.com**
 
