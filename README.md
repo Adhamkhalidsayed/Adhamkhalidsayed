@@ -33,7 +33,7 @@ adhamkhalidsayed/" target="_blank" title="Instagram"><img align="center" src="ht
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,dart,express,nodejs,github,git,html,css,js,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,dart,nodejs,github,git,js" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postman,vscode,pytorch,tensorflow,flutter,react,linux,latex" />
 </div>
 
@@ -41,7 +41,7 @@ adhamkhalidsayed/" target="_blank" title="Instagram"><img align="center" src="ht
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=SamyShaawat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=SamyShaawat&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=Adhamkhalidsayed&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Adhamkhalidsayed&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyShaawat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div><hr/>
