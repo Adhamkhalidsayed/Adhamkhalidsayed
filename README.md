@@ -6,7 +6,7 @@
   </h1>
   <h2>Computer Engineer</h2>
 </div>
-<img align="right" alt="Coding"  width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1715817600&v=beta&t=MVQ2hKrDj2Txg2kbgqwvyAaMwGcppYzzeYjMDodJuh0")/>
+<img align="right" alt="Coding"  width="400" src="https://github.com/Adhamkhalidsayed/AK2/blob/main/my%20logo.png")/>
 
 
 
@@ -27,7 +27,7 @@
 <a href="mailto:adham.khalid71@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="adhamhammad" height="40" width="40" /></a>
 <a href="https://github.com/Adhamkhalidsayed" target="_blank" title="GitHub"><img align="center" src="https://skillicons.dev/icons?i=github" alt="adhamhammad" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/adhamhammad/" target="_blank" title="LinkedIn"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/108px-LinkedIn_icon_circle.svg.png" alt="adhamhammad" height="40" width="40" /></a>
-<a href="https://www.instagram.com/adhamkhalidsayed/" target="_blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhamhammad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__adhamhammad__/" target="_blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhamhammad" height="30" width="40" /></a>
 <a href="https://www.facebook.com/adham.khalid.sayed" target="_blank" title="Facebook"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="adhamhammad" height="30" width="40" /></a>
 
 
