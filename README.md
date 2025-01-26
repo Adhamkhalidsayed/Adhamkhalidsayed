@@ -6,25 +6,27 @@
   </h1>
   <h2>Computer Engineer</h2>
 </div>
-<img align="right" alt="Coding"  width="400" src="https://github.com/Adhamkhalidsayed/AK2/blob/main/my%20logo.png")/>
+<img align="right" alt="Coding"  width="355" src="https://github.com/Adhamkhalidsayed/AK2/blob/main/my%20logo.png")/>
 
 
 
-<div align="left">
+<div align="left" >
+  <br></br>
+  <br></br>
   
-- 🔭 I’m currently working on [LeetCode-Answers](https://github.com/Adhamkhalidsayed/LeetCode-Answers)
-
+- 🔭 I’m currently working on <a href="https://github.com/Adhamkhalidsayed/LeetCode-Answers">LeetCode-Answers</a>
+  
 - 🌱 I’m currently learning **React, NodeJS, React Native, Flutter**
 
-- 📫 How to reach me **adham.khalid71@gmail.com**
+- 📫 How to reach me **adham.kh.hammad@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1F1IS6_1MYTJL5ipAr3WAzi90UZewpgO7/view?usp=sharing)
 
-<br/> <br/> <br/> <br/> <br/>  <br/> <br/>
+<br/> <br/> <br/> <br/>  
 <hr />
  <div align="center"> 
 <h2>🌟 Connect with me 🌟</h2>
-<a href="mailto:adham.khalid71@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="adhamhammad" height="40" width="40" /></a>
+<a href="mailto:adham.kh.hammad@gmail.com" target="_blank" title="Email"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="adhamhammad" height="40" width="40" /></a>
 <a href="https://github.com/Adhamkhalidsayed" target="_blank" title="GitHub"><img align="center" src="https://skillicons.dev/icons?i=github" alt="adhamhammad" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/adhamhammad/" target="_blank" title="LinkedIn"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/108px-LinkedIn_icon_circle.svg.png" alt="adhamhammad" height="40" width="40" /></a>
 <a href="https://www.instagram.com/__adhamhammad__/" target="_blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhamhammad" height="30" width="40" /></a>
