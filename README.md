@@ -1,6 +1,6 @@
 </div><hr/>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adhamkhalidsayed.visitor-badge&left_text=Profile%20Views%20" />
+  <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=Adhamkhalidsayed.visitor-badge&left_text=Profile%20Views%20" />-->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Adham+Hammad!;" />
   </h1>
